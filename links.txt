@@ -1,0 +1,58 @@
+https://www.youtube.com/watch?v=DpEg_UVkv6E
+https://www.tutorialspoint.com/how-to-use-volley-library-to-parse-json-in-android-kotlin-app
+
+https://www.youtube.com/watch?v=23FXl64PjDg
+How to develop android app to retrieve JSON data using Retrofit API - Android Kotlin
+
+https://www.youtube.com/watch?v=OehA8wYCuZw
+ Kotlin Retrofit Tutorial - SignUp using Retrofit POST
+
+https://johncodeos.com/how-to-make-post-get-put-and-delete-requests-with-retrofit-using-kotlin/
+
+https://www.youtube.com/watch?v=FndltwdK9Lo (android image upload)
+
+https://www.youtube.com/watch?v=dbSAIuyHInY (android image upload)
+
+https://stackoverflow.com/questions/57490228/how-to-upload-an-image-to-a-server-using-http-request-in-kotlin(android image upload)
+
+var bitmap = (imageView.drawable as BitmapDrawable).bitmap
+
+https://stackoverflow.com/questions/48912853/uploading-image-to-a-spring-boot-web-server-from-android
+
+pyaephyo101159
+
+https://www.youtube.com/watch?v=ebqbIyicCFU //git hub
+
+[9:42 AM] Ye Htet Zaw (Guest)
+    https://www.youtube.com/watch?v=LPT7v69guVY//git hub eclipse
+
+private const val URL ="http:// 192.168.99.129:9090/"
+
+https://www.datetimeformatter.com/how-to-format-date-time-in-kotlin/
+
+user_dob=#{user_dob,jdbcType=DATE},
+
+
+//this google android course(now is course1 birthday card)
+https://developer.android.com/codelabs/basic-android-kotlin-training-birthday-card-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-three%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-birthday-card-app#1
+
+https://guides.codepath.com/android/viewpager-with-fragmentpageradapter
+
+https://www.youtube.com/watch?v=CPAX-ft1dP4//meditation
+
+https://www.youtube.com/watch?v=Nj4H4Xg4rjE//replacing fragment
+
+///interview
+
+Personal Interview Schedule
+
+ Date : 31-5-2021 (Monday)
+
+Time : 11:00AM~11:30AM
+
+ You're invited to join a Microsoft Teams meeting
+
+Title: Personal Interview
+
+Join on your computer or mobile app
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmI5MDliNjYtMDQ3ZS00NDhmLWFiNzgtZDBhYjE1MzQ5ZDE5%40thread.v2/0?context=%7b%22Tid%22%3a%227278fb80-3534-4f63-81e0-e662c66e2573%22%2c%22Oid%22%3a%22e98c8ea2-494d-426e-b2a1-eb489ed0cc98%22%7d
